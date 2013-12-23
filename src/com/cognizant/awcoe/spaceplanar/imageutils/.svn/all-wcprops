@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repository/userexp/!svn/ver/28/trunk/SpacePlanAR_Latest/src/com/cognizant/awcoe/spaceplanar/imageutils
+END
+HighlightView.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repository/userexp/!svn/ver/28/trunk/SpacePlanAR_Latest/src/com/cognizant/awcoe/spaceplanar/imageutils/HighlightView.java
+END
+BaseCancelable.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repository/userexp/!svn/ver/28/trunk/SpacePlanAR_Latest/src/com/cognizant/awcoe/spaceplanar/imageutils/BaseCancelable.java
+END
+CropImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repository/userexp/!svn/ver/28/trunk/SpacePlanAR_Latest/src/com/cognizant/awcoe/spaceplanar/imageutils/CropImage.java
+END
+LruCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repository/userexp/!svn/ver/28/trunk/SpacePlanAR_Latest/src/com/cognizant/awcoe/spaceplanar/imageutils/LruCache.java
+END
+BitmapManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repository/userexp/!svn/ver/28/trunk/SpacePlanAR_Latest/src/com/cognizant/awcoe/spaceplanar/imageutils/BitmapManager.java
+END
+IImageList.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repository/userexp/!svn/ver/28/trunk/SpacePlanAR_Latest/src/com/cognizant/awcoe/spaceplanar/imageutils/IImageList.java
+END
+Cancelable.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repository/userexp/!svn/ver/28/trunk/SpacePlanAR_Latest/src/com/cognizant/awcoe/spaceplanar/imageutils/Cancelable.java
+END
+IImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repository/userexp/!svn/ver/28/trunk/SpacePlanAR_Latest/src/com/cognizant/awcoe/spaceplanar/imageutils/IImage.java
+END
+ImageViewTouchBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repository/userexp/!svn/ver/28/trunk/SpacePlanAR_Latest/src/com/cognizant/awcoe/spaceplanar/imageutils/ImageViewTouchBase.java
+END
+RotateBitmap.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repository/userexp/!svn/ver/28/trunk/SpacePlanAR_Latest/src/com/cognizant/awcoe/spaceplanar/imageutils/RotateBitmap.java
+END
+MonitoredActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repository/userexp/!svn/ver/28/trunk/SpacePlanAR_Latest/src/com/cognizant/awcoe/spaceplanar/imageutils/MonitoredActivity.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repository/userexp/!svn/ver/28/trunk/SpacePlanAR_Latest/src/com/cognizant/awcoe/spaceplanar/imageutils/Util.java
+END

@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/userexp/!svn/ver/28/trunk/SpacePlanAR_Latest/res/layout
+END
+settings_fragment_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repository/userexp/!svn/ver/28/trunk/SpacePlanAR_Latest/res/layout/settings_fragment_layout.xml
+END
+room_newmap_generate2dview_textures.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repository/userexp/!svn/ver/28/trunk/SpacePlanAR_Latest/res/layout/room_newmap_generate2dview_textures.xml
+END
+spaceplanar_settings_deviceheight.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repository/userexp/!svn/ver/28/trunk/SpacePlanAR_Latest/res/layout/spaceplanar_settings_deviceheight.xml
+END
+room_viewmaps_generate2dview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repository/userexp/!svn/ver/28/trunk/SpacePlanAR_Latest/res/layout/room_viewmaps_generate2dview.xml
+END
+room_newmap_generate2dview_setheight.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repository/userexp/!svn/ver/28/trunk/SpacePlanAR_Latest/res/layout/room_newmap_generate2dview_setheight.xml
+END
+room_viewmaps_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repository/userexp/!svn/ver/28/trunk/SpacePlanAR_Latest/res/layout/room_viewmaps_list.xml
+END
+vpi__tab.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/userexp/!svn/ver/28/trunk/SpacePlanAR_Latest/res/layout/vpi__tab.xml
+END
+spaceplanar_help_faq.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repository/userexp/!svn/ver/28/trunk/SpacePlanAR_Latest/res/layout/spaceplanar_help_faq.xml
+END
+location_chooser_spinner.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repository/userexp/!svn/ver/28/trunk/SpacePlanAR_Latest/res/layout/location_chooser_spinner.xml
+END
+spaceplanar_help_documentation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repository/userexp/!svn/ver/28/trunk/SpacePlanAR_Latest/res/layout/spaceplanar_help_documentation.xml
+END
+floors_newfloor_draw.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repository/userexp/!svn/ver/28/trunk/SpacePlanAR_Latest/res/layout/floors_newfloor_draw.xml
+END
+room_fragment_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repository/userexp/!svn/ver/28/trunk/SpacePlanAR_Latest/res/layout/room_fragment_layout.xml
+END
+spaceplanar_settings_tiltcorrection.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repository/userexp/!svn/ver/28/trunk/SpacePlanAR_Latest/res/layout/spaceplanar_settings_tiltcorrection.xml
+END
+floors_mapfloor_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repository/userexp/!svn/ver/28/trunk/SpacePlanAR_Latest/res/layout/floors_mapfloor_view.xml
+END
+help_documentation_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repository/userexp/!svn/ver/28/trunk/SpacePlanAR_Latest/res/layout/help_documentation_item.xml
+END
+floor_fragment_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repository/userexp/!svn/ver/28/trunk/SpacePlanAR_Latest/res/layout/floor_fragment_layout.xml
+END
+room_newmap_save.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repository/userexp/!svn/ver/28/trunk/SpacePlanAR_Latest/res/layout/room_newmap_save.xml
+END
+cropimage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/userexp/!svn/ver/28/trunk/SpacePlanAR_Latest/res/layout/cropimage.xml
+END
+help_fragment_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repository/userexp/!svn/ver/28/trunk/SpacePlanAR_Latest/res/layout/help_fragment_layout.xml
+END
+room_viewmaps_list_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repository/userexp/!svn/ver/28/trunk/SpacePlanAR_Latest/res/layout/room_viewmaps_list_row.xml
+END
+spaceplanar_home_viewpager.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repository/userexp/!svn/ver/28/trunk/SpacePlanAR_Latest/res/layout/spaceplanar_home_viewpager.xml
+END
+floor_newfloor_roomlist_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repository/userexp/!svn/ver/28/trunk/SpacePlanAR_Latest/res/layout/floor_newfloor_roomlist_row.xml
+END
+room_newmap_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repository/userexp/!svn/ver/28/trunk/SpacePlanAR_Latest/res/layout/room_newmap_view.xml
+END
+room_newmap_generate2dview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repository/userexp/!svn/ver/28/trunk/SpacePlanAR_Latest/res/layout/room_newmap_generate2dview.xml
+END
+room_newmap_generate3dview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repository/userexp/!svn/ver/28/trunk/SpacePlanAR_Latest/res/layout/room_newmap_generate3dview.xml
+END

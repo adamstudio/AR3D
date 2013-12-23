@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repository/userexp/!svn/ver/28/trunk/SpacePlanAR_Latest/src/com/cognizant/awcoe/spaceplanar/room/opengl
+END
+TextureRegion.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repository/userexp/!svn/ver/28/trunk/SpacePlanAR_Latest/src/com/cognizant/awcoe/spaceplanar/room/opengl/TextureRegion.java
+END
+Vertices.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repository/userexp/!svn/ver/28/trunk/SpacePlanAR_Latest/src/com/cognizant/awcoe/spaceplanar/room/opengl/Vertices.java
+END
+WallTriangle.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repository/userexp/!svn/ver/28/trunk/SpacePlanAR_Latest/src/com/cognizant/awcoe/spaceplanar/room/opengl/WallTriangle.java
+END
+FloorTriangle.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repository/userexp/!svn/ver/28/trunk/SpacePlanAR_Latest/src/com/cognizant/awcoe/spaceplanar/room/opengl/FloorTriangle.java
+END
+GLText.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repository/userexp/!svn/ver/28/trunk/SpacePlanAR_Latest/src/com/cognizant/awcoe/spaceplanar/room/opengl/GLText.java
+END
+SpriteBatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repository/userexp/!svn/ver/28/trunk/SpacePlanAR_Latest/src/com/cognizant/awcoe/spaceplanar/room/opengl/SpriteBatch.java
+END
+Group.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repository/userexp/!svn/ver/28/trunk/SpacePlanAR_Latest/src/com/cognizant/awcoe/spaceplanar/room/opengl/Group.java
+END
+WallMesh.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repository/userexp/!svn/ver/28/trunk/SpacePlanAR_Latest/src/com/cognizant/awcoe/spaceplanar/room/opengl/WallMesh.java
+END
+FloorMesh.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repository/userexp/!svn/ver/28/trunk/SpacePlanAR_Latest/src/com/cognizant/awcoe/spaceplanar/room/opengl/FloorMesh.java
+END

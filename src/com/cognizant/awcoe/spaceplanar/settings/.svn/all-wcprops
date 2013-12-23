@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repository/userexp/!svn/ver/28/trunk/SpacePlanAR_Latest/src/com/cognizant/awcoe/spaceplanar/settings
+END
+AppSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repository/userexp/!svn/ver/28/trunk/SpacePlanAR_Latest/src/com/cognizant/awcoe/spaceplanar/settings/AppSettings.java
+END
+TiltCorrectionSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repository/userexp/!svn/ver/28/trunk/SpacePlanAR_Latest/src/com/cognizant/awcoe/spaceplanar/settings/TiltCorrectionSettings.java
+END
+DeviceHeightSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repository/userexp/!svn/ver/28/trunk/SpacePlanAR_Latest/src/com/cognizant/awcoe/spaceplanar/settings/DeviceHeightSettings.java
+END
